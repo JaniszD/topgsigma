@@ -7,7 +7,7 @@ export default defineConfig({
     build: {
       outDir: './docs'
     },
-  base: '/topgsigma/'
+  base: '/topg/'
 });
 
 // https://vitejs.dev/config/
